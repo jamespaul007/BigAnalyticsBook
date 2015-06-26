@@ -55,24 +55,26 @@ Apache Spark, an open source Big Analytics platform
 The reader will learn how to design and implement a scalable platform for predictive analytics with R.
 
 
-Chapter 2: Work with Structured Data in Databases – 30 pages
-Description
+###Chapter 2: Work with Structured Data in Databases – 30 pages
+####Description
 The first step in an analysis project is to gather data into a single dataset at a level of aggregation that is appropriate for the business problem.  A key principle of Big Analytics is that data movement should be minimized.  In this chapter, we cover the tools and techniques needed to perform data processing operations inside source databases from the R interface.
-Level
+####Level
 MEDIUM
-Topics covered
-Architectural trends in modern databases
-Using key R packages, such as RODBC and dplyr
-Push-down processing in commercial MPP databases
-HP Vertica
-IBM PureData (Netezza)
-Oracle Big Data Appliance
-Pivotal Greenplum Database
-Teradata Aster
-Teradata Data Warehouse
-Push-down processing for SAP HANA
-Using R with Array Databases (SciDB)
-Skills learned
+####Topics covered
+
+* Architectural trends in modern databases
+* Using key R packages, such as RODBC and dplyr
+* Push-down processing in commercial MPP databases
+* HP Vertica
+* IBM PureData (Netezza)
+* Oracle Big Data Appliance
+* Pivotal Greenplum Database
+* Teradata Aster
+* Teradata Data Warehouse
+* Push-down processing for SAP HANA
+* Using R with Array Databases (SciDB)
+
+####Skills learned
 The reader learns how to use packages such as RODBC or dplyr for generic SQL pass-through, and vendor-specific packages for SQL pass through.
 
 
