@@ -12,8 +12,9 @@ output: pdf_document
 
 ### SubTopic
 
-```
+```{r}
 #Test some R code
+str(cars)
 
 ```
 
