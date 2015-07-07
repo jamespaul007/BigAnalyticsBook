@@ -78,78 +78,83 @@ MEDIUM
 The reader learns how to use packages such as RODBC or dplyr for generic SQL pass-through, and vendor-specific packages for SQL pass through.
 
 
-Chapter 3: Work with Structured Data in Hadoop and Spark – 30 pages
-Description
+###Chapter 3: Work with Structured Data in Hadoop and Spark – 30 pages
+####Description
 Building on the principles learned in the previous chapter, we cover push-down SQL and HiveQL for Hadoop and Spark.
-Level
+####Level
 MEDIUM
-Topics covered
-Using key R packages, such as RHIVE, Rimpala, Rpresto and SparkR
-Push-down SQL in Hadoop
-Apache Drill
-Apache Impala
-Cloudera Impala
-Facebook Presto
-Spark SQL and R
-Skills learned
+####Topics covered
+* Using key R packages, such as RHIVE, Rimpala, Rpresto and SparkR
+* Push-down SQL in Hadoop
+* Apache Drill
+* Apache Impala
+* Cloudera Impala
+* Facebook Presto
+* Spark SQL and R
+
+#### Skills learned
 The reader learns how to use R packages for pass-through integration with SQL-on-Hadoop and Spark.
 
 
-Chapter 4: Work with Unstructured Data – 30 pages
-Description
+### Chapter 4: Work with Unstructured Data – 30 pages
+#### Description
 Working with R interfaces to Hadoop or NoSQL databases, the reader learns how to extract features from unstructured data for use in visualization or predictive modeling.
-Level
+####Level
 Medium
-Topics covered
-Push-down processing in NoSQL databases (RMongo, rhbase, etc)
-Push-down processing in Hadoop (rmr)
-Spark MLLib for feature extraction
-Skills learned
+####Topics covered
+* Push-down processing in NoSQL databases (RMongo, rhbase, etc)
+* Push-down processing in Hadoop (rmr)
+* Spark MLLib for feature extraction
+
+#### Skills learned
 The reader learns how to use platform-specific R packages to extract features from unstructured data, and also how to use SparkR to leverage Spark MLLib for the same task.
 
 
-Chapter 5: Work with Streaming Data – 30 pages
-Description
+### Chapter 5: Work with Streaming Data – 30 pages
+#### Description
 In this chapter, we cover key concepts in streaming analytics, such as queries, sampling, filtering and windowing together with the required software and analytic techniques.  The chapter includes working with "pure" R packages and using the SparkR interface with Spark Streaming. 
-Level
+#### Level
 MEDIUM
-Topics covered
-Key concepts in streaming analytics
-Streaming analytics with R packages
-stream
-streamR
-StreamingLM
-Using SparkR and Spark Streaming
-Streaming Linear Regression
-Streaming Logistic Regression
-Streaming k-Means
-Skills learned
+####Topics covered
+* Key concepts in streaming analytics
+* Streaming analytics with R packages
+    - stream
+    - streamR
+    - StreamingLM
+* Using SparkR and Spark Streaming
+* Streaming Linear Regression
+* Streaming Logistic Regression
+* Streaming k-Means
+
+#### Skills learned
 The reader learns how to work with "pure" R setups for streaming analytics versus and hybrid configurations based on Spark Streaming, and how to choose between the two.
 
-Chapter 6: GPU Computing in R – 20 pages
-Description
+###Chapter 6: GPU Computing in R – 20 pages
+####Description
 Recent advances in consumer computing hardware makes parallel computing capability accessible. Graphical Processing Units (GPUs) are great for applications that leverage parallel computing such as simulations.
-Level
+####Level
 ADVANCED
-Topics covered
-Principles of Parallel Computing
-GPU Accelerated R software stack
-R packages for High Performance computing with GPUs (eg. gputools, cudaBayesreg)
-Accelerating R Using CUDA Libraries
-Examples - Fast Fourier Transformation
-Skills learned
+####Topics covered
+* Principles of Parallel Computing
+* GPU Accelerated R software stack
+* R packages for High Performance computing with GPUs (eg. gputools, cudaBayesreg)
+* Accelerating R Using CUDA Libraries
+* Examples - Fast Fourier Transformation
+
+####Skills learned
 The reader learns when to apply parallel computing and how to accelerate applications using GPUs
 
-Chapter 7: Unsupervised Learning with R and H2O – 20 pages
-Description
+###Chapter 7: Unsupervised Learning with R and H2O – 20 pages
+####Description
 As a first step in the discovery process, the data scientist performs unsupervised learning to reveal key patterns in the data.
-Level
+####Level
 ADVANCED
-Topics covered
-Summary Statistics
-Principal Components Analysis
-K-Means Clustering
-Skills learned
+####Topics covered
+* Summary Statistics
+* Principal Components Analysis
+* K-Means Clustering
+
+####Skills learned
 The reader learns how to use the R interface to H2O to work with unsupervised learning algorithms in the H2O machine learning library.
 
 
