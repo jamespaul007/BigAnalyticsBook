@@ -158,113 +158,120 @@ ADVANCED
 The reader learns how to use the R interface to H2O to work with unsupervised learning algorithms in the H2O machine learning library.
 
 
-Chapter 8: Unsupervised Learning with R and Spark – 40 pages
-Description
+###Chapter 8: Unsupervised Learning with R and Spark – 40 pages
+####Description
 Building on principles defined in the previous chapter, this chapter covers use of unsupervised learning techniques in Apache Spark from the R interface.
-Level
+####Level
 ADVANCED
-Topics covered
-Basic Statistics
-Dimension Reduction Techniques:
-Principal Components Analysis
-Singular Value Decomposition
-Alternating Least Squares for Collaborative Filtering
-Clustering Techniques:
-K-Means
-Gaussian Mixture Models
-Power Iteration Clustering
-Latent Dirichlet Clustering
-FP-Growth for Frequent Pattern Mining
-Skills learned
+####Topics covered
+* Basic Statistics
+* Dimension Reduction Techniques:
+* Principal Components Analysis
+* Singular Value Decomposition
+* Alternating Least Squares for Collaborative Filtering
+* Clustering Techniques:
+    - K-Means
+    - Gaussian Mixture Models
+    - Power Iteration Clustering
+    - Latent Dirichlet Clustering
+* FP-Growth for Frequent Pattern Mining
+
+####Skills learned
 The reader learns how to use the R interface to Spark for unsupervised learning techniques in the Spark machine learning library.
 
 
-Chapter 9: Supervised Learning with R and H2O – 30 pages
-Description
+### Chapter 9: Supervised Learning with R and H2O – 30 pages
+####Description
 After performing exploratory analysis, the reader is ready to train a series of predictive models using different techniques and specifications.  
-Level
+####Level
 ADVANCED
-Topics covered
-Generalized Linear Models
-Naïve Bayes Classifier
-Random Forests
-Gradient Boosted Regression and Classification
-Cox Proportional Hazards
-Skills learned
+####Topics covered
+* Generalized Linear Models
+* Naïve Bayes Classifier
+* Random Forests
+* Gradient Boosted Regression and Classification
+* Cox Proportional Hazards
+
+####Skills learned
 The reader learns how to implement a variety of machine learning techniques in H2O from the R interface. 
 
 
-Chapter 10: Supervised Learning with R and Spark – 30 pages
-Description
+###Chapter 10: Supervised Learning with R and Spark – 30 pages
+####Description
 Building on the previous chapter, this chapter covers supervised machine learning with Spark and the SparkR interface.
-Level
+####Level
 ADVANCED
-Topics covered
-Linear Regression
-Logistic Regression
-Support Vector Machines
-Naïve Bayes Classifier
-Decision Trees
-Random Forests
-Gradient Boosted Trees
-Skills learned
+####Topics covered
+* Linear Regression
+* Logistic Regression
+* Support Vector Machines
+* Naïve Bayes Classifier
+* Decision Trees
+* Random Forests
+* Gradient Boosted Trees
+
+####Skills learned
 The reader learns how to implement a variety of machine learning techniques in Apache Spark from the R interface. 
 
-Chapter 11: Deep Learning with R and H2O – 30 pages
-Description
+### Chapter 11: Deep Learning with R and H2O – 30 pages
+####Description
 Recent advancements in the ability of data scientists to model high-level abstractions in data (Deep Learning) has triggered new interest in the use of neural network technology.  In this chapter, we cover key concepts in neural networks and Deep Learning, and how to apply these concepts using R and H2O
-Level
+####Level
 ADVANCED
-Topics covered
-Key Concepts
-Neural Networks
-Deep Learning
-Working with R and H2O
-Specify model parameters
-Model training
-Model interpretation
-Working with R and Spark (placeholder1)
-Skills learned
+####Topics covered
+* Key Concepts
+* Neural Networks
+* Deep Learning
+* Working with R and H2O
+* Specify model parameters
+* Model training
+* Model interpretation
+* Working with R and Spark (placeholder1)
+
+####Skills learned
 The reader learns key Deep Learning concepts and how to implement them using SparkR and H2O's Neural Network algorithm.
 
 
-Chapter 12: Test and Evaluate Predictive Models – 20 pages
-Description
+###Chapter 12: Test and Evaluate Predictive Models – 20 pages
+####Description
 From the range of modeling experiments performed in the previous chapters, the analyst must now choose the model with the best overall performance across a range of measures.  In this chapter, we cover how to produce these measures in an R report or visualization.
-Level
+####Level
 ADVANCED
-Topics covered
-Model-specific measures of fit
-Generic models of fit, including AIC and BIC
-Measures of model lift (AOC, Gains)
-Skills learned
+####Topics covered
+* Model-specific measures of fit
+* Generic models of fit, including AIC and BIC
+* Measures of model lift (AOC, Gains)
+
+####Skills learned
 The reader learns how to use the R interface to Big Analytics platforms to generate model evaluation statistics and display the results in an R report or graph.
 
 
-Chapter 13: Deploy Predictive Models – 20 pages
-Description
+### Chapter 13: Deploy Predictive Models – 20 pages
+#### Description
 Predictive models produce value when they are deployed in production.  This chapter covers the tools and techniques to create a document or code that can be quickly imported and used by a scoring and decision engine.
-Level
+#### Level
 ADVANCED
-Topics covered
-Predictive Model Markup Language
-The RPMML package
-Model export from Spark, H2O and MPP databases
-Skills learned
+####Topics covered
+* Predictive Model Markup Language
+* The RPMML package
+* Model export from Spark, H2O and MPP databases
+
+####Skills learned
 The reader learns how to convert a predictive model selected in the previous chapter into a PMML document or other executable.
 
 
-Chapter 14: Next Steps – 20 pages
-Description
+###Chapter 14: Next Steps – 20 pages
+####Description
 This chapter brings the book to a close and encourages the reader to apply lessons learned.
-Level
+####Level
 BASIC
-Topics covered
-Review key points covered in the book
-Suggest next steps
-Point the reader to additional sources for help
-Appendices
-Skills learned
+####Topics covered
+* Review key points covered in the book
+* Suggest next steps
+* Point the reader to additional sources for help
+* Appendices
+
+#### Skills learned
 N/A
 
 Total Number of pages: 390
