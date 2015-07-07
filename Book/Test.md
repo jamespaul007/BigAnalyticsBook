@@ -1,9 +1,21 @@
+
 ---
 title: "Test"
 author: "James"
 date: "July 7, 2015"
 output: pdf_document
 ---
+
+#1. Name of the Chapter
+
+## Topic
+
+### SubTopic
+
+```
+#Test some R code
+
+```
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
